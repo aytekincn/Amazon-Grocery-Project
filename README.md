@@ -1,5 +1,28 @@
 # Amazon UK Grocery Project
 
+# About the data
+This dataset provides a comprehensive overview of various UK Amazon grocery products. It captures vital statistics such as sales figures, revenue, ratings, and other essential metrics.
+
+## Features 
+Product Details: A description of the grocery product.
+ASIN: Amazon Standard Identification Number.
+Brand: Brand of the product.
+Price: Price of the product.
+Sales: Number of units sold.
+Revenue: Total revenue generated from the product.
+BSR: Best Seller Rank on Amazon.
+FBA Fees: Fulfillment By Amazon fees.
+Active Sellers : Number of active sellers for the product.
+Ratings: Average customer rating.
+Review Count: Number of customer reviews.
+Review velocity: The number of reviews added in a specified time frame.
+Buy Box: The seller who currently has the "Buy Box" for the product.
+Category: The category of the product on Amazon (e.g., Food Cupboard, Drinks).
+Size Tier: Size classification for the product.
+Delivery: Delivery method.
+Weight: Weight of the product.
+Creation Date: The date when the product was added to Amazon.
+
 ## General review of data
 ![image](https://github.com/aytekincn/Amazon-UK-Grocery-Project/assets/121166508/bdd4de9a-3e1d-46de-b23b-770e4c1f66f6)
 
