@@ -1,4 +1,4 @@
-# Amazon UK Grocery Project
+# Amazon Grocery Project
 
 # About the data
 This dataset provides a comprehensive overview of various UK Amazon grocery products. It captures vital statistics such as sales figures, revenue, ratings, and other essential metrics.
