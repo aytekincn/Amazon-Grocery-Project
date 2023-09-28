@@ -24,10 +24,10 @@ Weight: Weight of the product.
 Creation Date: The date when the product was added to Amazon.
 
 ## What I did in this project?
--- Analysing and clearing data with Pandas
--- Evaluation by years
--- Creating various views and assigning them to the staging layer
--- Sending the created tables to DWH and performing their data analysis using data visualization
+- Analysing and clearing data with Pandas
+- Evaluation by years
+- Creating various views and assigning them to the staging layer
+- Sending the created tables to DWH and performing their data analysis using data visualization
 
 ## Tools and Programs
 - Python
