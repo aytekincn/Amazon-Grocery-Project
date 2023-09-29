@@ -59,3 +59,9 @@ Creation Date: The date when the product was added to Amazon.
 ![image](https://github.com/aytekincn/Amazon-UK-Grocery-Project/assets/121166508/8c2a7ce3-d9da-406d-8fed-2f85ce3a5ae0)
 ![image](https://github.com/aytekincn/Amazon-UK-Grocery-Project/assets/121166508/5d61962d-bd9d-4768-8f85-b18bd2163f5e)
 ![image](https://github.com/aytekincn/Amazon-UK-Grocery-Project/assets/121166508/e6297766-1474-4c18-baf4-25e0a6cbb468)
+
+## PowerBI analysis Sales by year 2020
+![2020-1](https://github.com/aytekincn/Amazon-Grocery-Project/assets/121166508/5ac0c366-9882-4c00-83df-99c68c10677b)
+
+## Sales analysis of 2019
+![2019-1](https://github.com/aytekincn/Amazon-Grocery-Project/assets/121166508/8e46f297-58d6-4cbf-94cd-b7f7ac1546e5)
